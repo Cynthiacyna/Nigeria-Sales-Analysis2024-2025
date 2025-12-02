@@ -50,7 +50,8 @@ These slicers ensure that the dashboard remains interactive, flexible, and respo
 ## Dashboard
 
 ![NIGERIA SALES DASHBOARD ](https://github.com/user-attachments/assets/5e8a8be9-11b2-4039-8d19-605c4f3fb48f)
-##Project Outcome
+
+## Project Outcome
 This project successfully demonstrates the integration of data management and business intelligence techniques to deliver actionable insights. Key achievements include:
 - Building structured datasets from scratch – ensuring data accuracy, consistency, and readiness for analysis.
 - Creating meaningful KPIs – defining clear performance indicators that align with business objectives.
