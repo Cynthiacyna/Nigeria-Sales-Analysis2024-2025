@@ -1,4 +1,4 @@
-# Nigeria Sales Analysis 2024-2025
+<img width="93" height="21" alt="image" src="https://github.com/user-attachments/assets/12523cca-824b-4a6f-82a5-58631240e1dc" /># Nigeria Sales Analysis 2024-2025
 
 ## Project Overview
 This project analyzes sales performance across Nigerian states for 2024 and 2025.  
@@ -14,5 +14,26 @@ It includes KPIs, dashboards, pivot tables, and insights for business decisions.
 
 ## Dataset used
 - <a href="https://github.com/Cynthiacyna/Nigeria-Sales-Analysis2024-2025/blob/main/NIGERIA%20SALES%20DASHBOARD%20.xlsx">dataset</a>
+## Key Performance Indicators (KPIs)
+At the top of the dashboard, I designed five KPI cards to highlight the most important library metrics:
+-	Total Sales
+-	Total Profit
+
+-	These KPI cards automatically update when filtered using slicers, making them dynamic and highly responsive.
+## Interactive Charts and Visualizations
+To provide clearer insights, I added multiple charts powered by PivotTables:
+- Profit by year (colunmu chart)
+Shows annual profitability trends, enabling easy identification of growth or decline.
+- sales by sub categores (Funnel chart)
+Breaks down sales performance across product sub‑categories for granular analysis.
+- top 5 customer profits (Bar Chart)
+Highlights the most profitable customers, supporting targeted relationship management.
+- sales by month (colunmu chart)
+Displays monthly sales fluctuations to identify seasonal patterns.
+- sales by State (Funnel chart)
+Performance, revealing regional strengths and opportunities.
+- Monthly Trends (2024 - 2025) (colunmu chart) 
+Tracks recent performance trends to support forecasting and strategic planning.
+
 
 
