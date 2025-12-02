@@ -49,10 +49,10 @@ These slicers ensure that the dashboard remains interactive, flexible, and respo
 - Dashboard Interaction <a href="https://github.com/Cynthiacyna/Nigeria-Sales-Analysis2024-2025/blob/main/NIGERIA%20SALES%20DASHBOARD%20.xlsx.jpg">View Dashboard</a>
 
 ## Dashboard
+![NIGERIA SALES DASHBOARD ](https://github.com/user-attachments/assets/5e8a8be9-11b2-4039-8d19-605c4f3fb48f)
 
 ![NIGERIA LIBRARY USER ENGAGEMENT DASHBOARD xlsx](https://github.com/user-attachments/assets/f8d54316-edd4-4d6a-853d-c57345a592f4)
 
-![NIGERIA SALES 2024 & 2025 xlsx](https://github.com/user-attachments/assets/f8d54316-edd4-4d6a-853d-c57345a592f4)
 This project successfully demonstrates the integration of data management and business intelligence techniques to deliver actionable insights. Key achievements include:
 - Building structured datasets from scratch – ensuring data accuracy, consistency, and readiness for analysis.
 - Creating meaningful KPIs – defining clear performance indicators that align with business objectives.
