@@ -1,5 +1,4 @@
-<img width="93" height="21" alt="image" src="https://github.com/user-attachments/assets/12523cca-824b-4a6f-82a5-58631240e1dc" /># Nigeria Sales Analysis 2024-2025
-
+# Nigeria Sales Analysis 2024-2025
 ## Project Overview
 This project analyzes sales performance across Nigerian states for 2024 and 2025.  
 It includes KPIs, dashboards, pivot tables, and insights for business decisions.
@@ -19,7 +18,7 @@ At the top of the dashboard, I designed five KPI cards to highlight the most imp
 -	Total Sales
 -	Total Profit
 
--	These KPI cards automatically update when filtered using slicers, making them dynamic and highly responsive.
+These KPI cards automatically update when filtered using slicers, making them dynamic and highly responsive.
 ## Interactive Charts and Visualizations
 To provide clearer insights, I added multiple charts powered by PivotTables:
 - Profit by year (colunmu chart)
@@ -45,14 +44,11 @@ To make the dashboard truly dynamic, I added four slicers:
 - Months
 These slicers ensure that the dashboard remains interactive, flexible, and responsive, empowering users to explore the data from multiple angles.
 
-
 - Dashboard Interaction <a href="https://github.com/Cynthiacyna/Nigeria-Sales-Analysis2024-2025/blob/main/NIGERIA%20SALES%20DASHBOARD%20.xlsx.jpg">View Dashboard</a>
 
 ## Dashboard
+
 ![NIGERIA SALES DASHBOARD ](https://github.com/user-attachments/assets/5e8a8be9-11b2-4039-8d19-605c4f3fb48f)
-
-![NIGERIA LIBRARY USER ENGAGEMENT DASHBOARD xlsx](https://github.com/user-attachments/assets/f8d54316-edd4-4d6a-853d-c57345a592f4)
-
 This project successfully demonstrates the integration of data management and business intelligence techniques to deliver actionable insights. Key achievements include:
 - Building structured datasets from scratch – ensuring data accuracy, consistency, and readiness for analysis.
 - Creating meaningful KPIs – defining clear performance indicators that align with business objectives.
