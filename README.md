@@ -42,6 +42,7 @@ To make the dashboard truly dynamic, I added four slicers:
 - Year
 - Category 
 - Months
+
 These slicers ensure that the dashboard remains interactive, flexible, and responsive, empowering users to explore the data from multiple angles.
 
 - Dashboard Interaction <a href="https://github.com/Cynthiacyna/Nigeria-Sales-Analysis2024-2025/blob/main/NIGERIA%20SALES%20DASHBOARD%20.xlsx.jpg">View Dashboard</a>
