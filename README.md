@@ -13,7 +13,7 @@ It includes KPIs, dashboards, pivot tables, and insights for business decisions.
 - Charts & KPI Cards
 
 ## Dataset used
-- <a href="https://github.com/Cynthiacyna/Nigeria-Sales-Analysis2024-2025/blob/main/NIGERIA%20SALES%20DASHBOARD%20.xlsx">dataset</a>
+- <a href="https://github.com/Cynthiacyna/Nigeria-Sales-Analysis2024-2025/blob/main/Nigeria%20Sales%202024%20%26%202025.xlsx">dataset</a>
 ## Key Performance Indicators (KPIs)
 At the top of the dashboard, I designed five KPI cards to highlight the most important library metrics:
 -	Total Sales
@@ -48,4 +48,18 @@ These slicers ensure that the dashboard remains interactive, flexible, and respo
 
 - Dashboard Interaction <a href="https://github.com/Cynthiacyna/Nigeria-Sales-Analysis2024-2025/blob/main/NIGERIA%20SALES%20DASHBOARD%20.xlsx.jpg">View Dashboard</a>
 
+## Dashboard
+
+![NIGERIA LIBRARY USER ENGAGEMENT DASHBOARD xlsx](https://github.com/user-attachments/assets/f8d54316-edd4-4d6a-853d-c57345a592f4)
+
+![NIGERIA SALES 2024 & 2025 xlsx](https://github.com/user-attachments/assets/f8d54316-edd4-4d6a-853d-c57345a592f4)
+This project successfully demonstrates the integration of data management and business intelligence techniques to deliver actionable insights. Key achievements include:
+- Building structured datasets from scratch – ensuring data accuracy, consistency, and readiness for analysis.
+- Creating meaningful KPIs – defining clear performance indicators that align with business objectives.
+- Designing interactive dashboards – enabling stakeholders to explore data dynamically through slicers and filters.
+- Communicating insights visually – transforming raw numbers into intuitive charts and graphs for better understanding.
+- Using Excel as a complete BI solution – showcasing the versatility of Excel in handling end‑to‑end analytics, from data preparation to visualization.
+
+## Summary: 
+The Nigeria Sales Analysis project highlights how structured datasets, KPIs, and interactive dashboards can be combined to provide a comprehensive, dynamic, and visually engaging BI solution. It not only supports informed decision‑making but also demonstrates the power of Excel as a practical tool for business intelligence.
 
