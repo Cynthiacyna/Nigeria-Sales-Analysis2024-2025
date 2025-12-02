@@ -6,7 +6,7 @@ It includes KPIs, dashboards, pivot tables, and insights for business decisions.
 - Nigeria_Sales_2024.xlsx
 - Dashboard_Image.png
 
-- ## Tools Used
+## Tools Used
 - Microsoft Excel
 - Pivot Tables & Power Query
 - Charts & KPI Cards
